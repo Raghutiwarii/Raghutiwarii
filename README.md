@@ -15,8 +15,6 @@
 </p>
 </p>
 
-
-
 <p align="center">
   <em>
     Hello, I am Raghunath Tiwari a <b>3rd year</b> undergraduate from <a href="https://www.lpu.in/"> <b>Lovely Professional University</b>, Punjab-India </a>. <br>
