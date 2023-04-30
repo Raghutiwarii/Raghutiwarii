@@ -14,7 +14,6 @@
 <a href="https://www.hackerrank.com" target="blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/hackerrank.svg" alt="hack_ovindu" height="30" width="40" /></a>
 </p>
 </p>
-
 <p align="center">
   <em>
     Hello, I am Raghunath Tiwari a <b>3rd year</b> undergraduate from <a href="https://www.lpu.in/"> <b>Lovely Professional University</b>, Punjab-India </a>. <br>
