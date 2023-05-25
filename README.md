@@ -153,7 +153,7 @@
 <details>
   <summary><b>⚡ GitHub Contribution Streak</b></summary>
   <br/>
-   <a href="https://github.com/nneji123"><img alt="Ifeanyi's Contribution Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Nneji123&theme=dark" /></a>
+   <a href="https://github.com/Raghutiwarii"><img alt="Ifeanyi's Contribution Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Raghutiwarii&theme=dark" /></a>
   <br/>
 
 </details>
@@ -162,7 +162,7 @@
 <br/>
 
 ## 🏆GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=nneji123&theme=dark&no-frame=false&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=Raghutiwarii&theme=dark&no-frame=false&no-bg=false&margin-w=4)
 
 ## What I'm Currently Listening To
 
