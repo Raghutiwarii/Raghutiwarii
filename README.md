@@ -58,9 +58,164 @@
 <br><br><br><br><br>
 
 <hr>
+## Projects
+
+<a href="https://github.com/Nneji123/Machine-Learning-Course-Projects">
+
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=nneji123&repo=Machine-Learning-Course-Projects&theme=dark" />
+
+</a>  
+
+<a href="https://github.com/Nneji123/Alien-Shooter">
+
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=nneji123&repo=Alien-Shooter&theme=dark"/>
+
+</a> 
+
+<a href="https://github.com/Nneji123/Credit-Card-Fraud-Detection">
+
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=nneji123&repo=Credit-Card-Fraud-Detection&theme=dark" />
+
+</a> 
+
+<a href="https://github.com/Nneji123/FIFA-22-Player-Analysis">
+
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=nneji123&repo=FIFA-22-Player-Analysis&theme=dark" />
+
+</a> 
+
+<a href="https://github.com/Nneji123/Heart-Failure-Prediction-Web-App-with-Flask">
+
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=nneji123&repo=Heart-Failure-Prediction-Web-App-with-Flask&theme=dark" />
+
+</a>
+
+<a href="https://github.com/Nneji123/Titanic-Survival-Prediction-with-FastAPI-and-Docker">
+
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=nneji123&repo=Titanic-Survival-Prediction-with-FastAPI-and-Docker&theme=dark" />
+
+</a>
+
+<a href="https://github.com/Nneji123/Dog-Breed-Prediction-Streamlit-App">
+
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=nneji123&repo=Dog-Breed-Prediction-Streamlit-App&theme=dark" />
+
+</a>
+
+<a href="https://github.com/Nneji123/Streamlit-Web-App-Projects">
+
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=nneji123&repo=Streamlit-Web-App-Projects&theme=dark" />
+
+</a>
+
+## Check out my recent Articles :smile:
+
+<p
+
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@ifeanyinneji777/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@ifeanyinneji777/0" alt="Recent Article 0">
+   
+ <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@ifeanyinneji777/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@ifeanyinneji777/1" alt="Recent Article 1">
+   
+   
+ <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@ifeanyinneji777/2"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@ifeanyinneji777/2" alt="Recent Article 2"></a>
+   
+   
+ <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@ifeanyinneji777/3"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@ifeanyinneji777/3" alt="Recent Article 3"></a>
+ 
+ <!---
+ <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@ifeanyinneji777/4"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@ifeanyinneji777/4" alt="Recent Article 4">
+   
+ <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@ifeanyinneji777/5"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@ifeanyinneji777/5" alt="Recent Article 5">
+   
+   
+ <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@ifeanyinneji777/6"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@ifeanyinneji777/6" alt="Recent Article 6">
+   
+   
+ <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@ifeanyinneji777/7"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@ifeanyinneji777/7" alt="Recent Article 7">
+-->
+</p>
+	 
+## Github Stats <img src = "https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width = 35px height = 35px>
 
 
-<p align="center"><img src="https://media.giphy.com/media/QaMcXSekUWx7aogAUr/giphy.gif" width="30" />&nbsp;Git profile Trophies</p><br>
-<img src="https://github-profile-trophy.vercel.app/?username=OvinduWijethunge&theme=juicyfresh&no-bg=true" />
+<details> 
+  <summary><b>💻 GitHub Profile Stats</b></summary>
+  <br/>
+  <p align="center">
+    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Ifeanyi's Github Stats" src="https://github-readme-stats.vercel.app/api?username=nneji123&show_icons=true&count_private=true&theme=dark" height="192px"/></a>
+<br/>
+  &nbsp;
+	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nneji123&show_icons=true&locale=en&layout=compact&theme=dark" alt="nneji123" height="192px"/>
+  <br/>
+  </p>
+</details>
 
------
+
+<details>
+  <summary><b>⚡ Recent GitHub Activity</b></summary>
+  <br/>
+   <a href="https://github.com/nneji123"><img alt="Ifeanyi's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=nneji123&custom_title=Ifeanyi's%20Contribution%20Graph&theme=dark" /></a>
+  <br/>
+
+</details>
+
+<details>
+  <summary><b>⚡ GitHub Contribution Streak</b></summary>
+  <br/>
+   <a href="https://github.com/nneji123"><img alt="Ifeanyi's Contribution Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Nneji123&theme=dark" /></a>
+  <br/>
+
+</details>
+
+
+<br/>
+
+## 🏆GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=nneji123&theme=dark&no-frame=false&no-bg=false&margin-w=4)
+
+## What I'm Currently Listening To
+
+<p align="center">
+  <img src="https://spotify-github-profile.vercel.app/api/view?uid=thiei724elvwcervp1qpymi9m&cover_image=true&theme=default&bar_color=18cd1b&bar_color_cover=false" 
+      alt="example"> 
+</p>
+
+
+----
+
+<p align="center">
+  <img  src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/main/resources/img/github-contribution-grid-snake.svg"
+    alt="example" />
+</p>
+
+------
+![](https://hit.yhype.me/github/profile?user_id=101701760)
+
+
+
+<!---
+## About Me
+- 👀 I’m interested in Python programming
+- 🌱 I’m currently learning Machine Learning and Data Science using python
+- 💞️ I’m looking to collaborate on any development project 
+- 📫 How to reach me: ifeanyinneji777@gmail.com
+- >
+
+
+
