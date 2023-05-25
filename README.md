@@ -58,7 +58,7 @@
 <br><br><br><br><br>
 
 <hr>
-## Projects
+##Projects
 
 <a href="https://github.com/Nneji123/Machine-Learning-Course-Projects">
 
