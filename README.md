@@ -64,10 +64,10 @@
   <summary><b>💻 GitHub Profile Stats</b></summary>
   <br/>
   <p align="center">
-    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Ifeanyi's Github Stats" src="https://github-readme-stats.vercel.app/api?username=nneji123&show_icons=true&count_private=true&theme=dark" height="192px"/></a>
+    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Raghu's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Raghutiwarii&show_icons=true&count_private=true&theme=dark" height="192px"/></a>
 <br/>
   &nbsp;
-	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nneji123&show_icons=true&locale=en&layout=compact&theme=dark" alt="nneji123" height="192px"/>
+	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Raghutiwarii&show_icons=true&locale=en&layout=compact&theme=dark" alt="Raghutiwarii" height="192px"/>
   <br/>
   </p>
 </details>
@@ -76,7 +76,7 @@
 <details>
   <summary><b>⚡ Recent GitHub Activity</b></summary>
   <br/>
-   <a href="https://github.com/nneji123"><img alt="Ifeanyi's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=nneji123&custom_title=Ifeanyi's%20Contribution%20Graph&theme=dark" /></a>
+   <a href="https://github.com/Raghutiwarii"><img alt="Ifeanyi's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Raghutiwarii&custom_title=Ifeanyi's%20Contribution%20Graph&theme=dark" /></a>
   <br/>
 
 </details>
