@@ -52,77 +52,8 @@
   <hr>
   <p align="center">
  <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>&nbsp;<i><b>Git Activeness</b></i></p>
- 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=OvinduWijethunge&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" /></p>
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=OvinduWijethunge&show_icons=true&locale=en&theme=chartreuse-dark" alt="ovi" width="410" /></p>
-<br><br><br><br><br>
 
-<hr>
-
-
-<a href="https://github.com/Nneji123/Machine-Learning-Course-Projects">
-
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=nneji123&repo=Machine-Learning-Course-Projects&theme=dark" />
-
-</a>  
-
-<a href="https://github.com/Nneji123/Alien-Shooter">
-
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=nneji123&repo=Alien-Shooter&theme=dark"/>
-
-</a> 
-
-<a href="https://github.com/Nneji123/Credit-Card-Fraud-Detection">
-
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=nneji123&repo=Credit-Card-Fraud-Detection&theme=dark" />
-
-</a> 
-
-<a href="https://github.com/Nneji123/FIFA-22-Player-Analysis">
-
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=nneji123&repo=FIFA-22-Player-Analysis&theme=dark" />
-
-</a> 
-
-<a href="https://github.com/Nneji123/Heart-Failure-Prediction-Web-App-with-Flask">
-
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=nneji123&repo=Heart-Failure-Prediction-Web-App-with-Flask&theme=dark" />
-
-</a>
-
-<a href="https://github.com/Nneji123/Titanic-Survival-Prediction-with-FastAPI-and-Docker">
-
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=nneji123&repo=Titanic-Survival-Prediction-with-FastAPI-and-Docker&theme=dark" />
-
-</a>
-
-<a href="https://github.com/Nneji123/Dog-Breed-Prediction-Streamlit-App">
-
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=nneji123&repo=Dog-Breed-Prediction-Streamlit-App&theme=dark" />
-
-</a>
-
-<a href="https://github.com/Nneji123/Streamlit-Web-App-Projects">
-
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=nneji123&repo=Streamlit-Web-App-Projects&theme=dark" />
-
-</a>
+<br>
 
 
 	 
