@@ -76,7 +76,7 @@
 <details>
   <summary><b>⚡ Recent GitHub Activity</b></summary>
   <br/>
-   <a href="https://github.com/Raghutiwarii"><img alt="Ifeanyi's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Raghutiwarii&custom_title=Ifeanyi's%20Contribution%20Graph&theme=dark" /></a>
+   <a href="https://github.com/Raghutiwarii"><img alt="Raghu's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Raghutiwarii&custom_title=Ifeanyi's%20Contribution%20Graph&theme=dark" /></a>
   <br/>
 
 </details>
@@ -84,7 +84,7 @@
 <details>
   <summary><b>⚡ GitHub Contribution Streak</b></summary>
   <br/>
-   <a href="https://github.com/Raghutiwarii"><img alt="Ifeanyi's Contribution Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Raghutiwarii&theme=dark" /></a>
+   <a href="https://github.com/Raghutiwarii"><img alt="Raghu's Contribution Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Raghutiwarii&theme=dark" /></a>
   <br/>
 
 </details>
